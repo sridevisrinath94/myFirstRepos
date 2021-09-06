@@ -1,0 +1,3 @@
+C:\Users\Girish\source\repos\myFirstRepos\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Girish\source\repos\myFirstRepos\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Girish\source\repos\myFirstRepos\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
